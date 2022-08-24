@@ -12,7 +12,6 @@ https://github.com/NotYourFenix/Terminal-TOS
 
 # Invite Our Main Bot
 
-[Terminal](https://discord.com/api/oauth2/authorize?client_id=968425218144079913&permissions=8&scope=bot)
-[Support Server](https://discord.gg/W6xXFCvepW)
+[Terminal](https://discord.com/api/oauth2/authorize?client_id=968425218144079913&permissions=8&scope=bot) | [Support Server](https://discord.gg/W6xXFCvepW)
 
 
